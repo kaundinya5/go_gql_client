@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/Laisky/graphql/ident"
+	"github.com/kaundinya5/graphql/ident"
 )
 
 func constructQuery(v interface{}, variables map[string]interface{}) string {

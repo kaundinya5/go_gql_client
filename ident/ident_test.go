@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Laisky/graphql/ident"
+	"github.com/kaundinya5/graphql/ident"
 )
 
 func Example_lowerCamelCaseToMixedCaps() {
